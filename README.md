@@ -61,10 +61,6 @@ Next-generation Multimodal AI integrating NLP, Computer Vision, and Speech Intel
 ML-powered chatbot for real-time patient symptom classification and diagnosis support.
 > **Stack:** Python | Rasa | ML | NLP | scikit-learn
 
-### 🛒 E-Commerce Platform
-Full-stack application with product management, user auth, cart, and order processing.
-> **Stack:** Django | MySQL | HTML | CSS | JavaScript
-
 ---
 
 ## 📜 Certifications
