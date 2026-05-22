@@ -25,7 +25,7 @@ I'm an **AI Engineer & Python Developer** with hands-on experience building inte
 - ☁️ **Google Cloud Certified Professional Cloud Architect**
 - 🎓 B.E. in ECE — The Oxford College of Engineering, Bangalore (2025)
 - 📍 Bangalore, India · Open to Remote
-- 📫 **sivakumarraju31@gmail.com**
+- 📫 **rajusivakumar453@gmail.com**
 
 ---
 
