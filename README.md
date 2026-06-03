@@ -71,12 +71,6 @@ I'm an **AI Engineer & Python Developer** with hands-on experience building inte
 
 ---
 
-### 🧠 [AI Multimedia Intelligence System](https://github.com/Sivakumarraj/AI_Multimedia_Intelligence_System)
-> Multimodal AI system processing text, images, audio, and video using GPT-4 reasoning, Whisper speech-to-text, CLIP image understanding, and DeepFace emotion detection — unified under a Streamlit interface.
-
-`Python` `OpenAI API` `Whisper` `DeepFace` `CLIP` `Transformers` `Streamlit` `gTTS`
-
----
 
 ### 🏥 [Healthcare Chatbot](https://github.com/Sivakumarraj/Healthcare-chatbot)
 > ML-powered chatbot for real-time patient symptom classification and diagnosis support, built during internship at Compsoft Technologies.
