@@ -6,7 +6,7 @@
   <a href="https://linkedin.com/in/siva-kumar-raju-359157229">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sivakumarraju31@gmail.com">
+  <a href="mailto:rajusivakumar453@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/Sivakumarraj">
@@ -63,6 +63,14 @@ I'm an **AI Engineer & Python Developer** with hands-on experience building inte
 ---
 
 ## 🔥 Featured Projects
+---
+
+### 🏢 [Enterprise IT Service Desk Pipeline](https://github.com/Sivakumarraj/antigravity-service-desk)
+> Enterprise-grade multi-agent IT helpdesk automation built on **Cognizant Neuro SAN Studio** — 5-pass PII scrubbing (phones, credentials, email headers), Pydantic v2 enum-locked guardrails to block LLM hallucinations, LLM fallback chains, and automatic ServiceNow incident payload generation. Reviewed and approved by Cognizant AI Lab maintainers — listed in the official Neuro SAN Studio community projects.
+
+`Python` `Neuro SAN` `Pydantic v2` `ServiceNow` `Multi-Agent` `PII Scrubbing` `HOCON` `uv` `ITSM` `Gemini`
+
+
 
 ### 🤖 [AI Workspace Automation System](https://github.com/Sivakumarraj/AI-Workspace-Automation-System)
 > Production-grade fullstack AI platform — Next.js/TypeScript frontend + FastAPI backend — with Gemini 2.5 Flash, end-to-end RAG pipeline (ChromaDB), multi-agent orchestration, memory system, task logging, and Playwright browser automation for autonomous web task execution from natural language prompts.
