@@ -1,27 +1,31 @@
-<h1 align="center">Hi, I'm Siva Kumar Raju 👋</h1>
+# Hi, I'm Siva Kumar Raju 👋
 
-<h3 align="center">AI Engineer · Python Developer · LLM Agents & Automation Builder</h3>
+### AI Engineer · Multi-Agent Systems · Open-Source Contributor to Cognizant AI Lab
 
-<p align="center">
-  <a href="https://linkedin.com/in/siva-kumar-raju-359157229">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:rajusivakumar453@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Sivakumarraj">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+[
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/siva-kumar-raju-359157229)
+[
+
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+](mailto:rajusivakumar453@gmail.com)
+[
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/Sivakumarraj)
 
 ---
 
 ## 🚀 About Me
 
-I'm an **AI Engineer & Python Developer** with hands-on experience building intelligent systems — LLM-powered agents, RAG pipelines, multimodal AI, and full-stack automation platforms.
+I'm an **AI Engineer** building multi-agent systems in Python — LLM agents, deterministic tooling, and production-oriented automation.
 
-- 🤖 Building **AI Workspace Automation System** — fullstack AI OS with RAG, multi-agent orchestration & Playwright browser automation
-- 🧠 Passionate about **Generative AI**, **LLM Agents**, and **production-grade AI systems**
+- 🤝 **Open-source contributor to [Cognizant AI Lab's Neuro SAN Studio](https://github.com/cognizant-ai-lab/neuro-san-studio)** — two PRs merged to main, reviewed by their AVP of Neuro AI
+- 🧠 Core design principle across all my work: **LLMs handle language, deterministic Python owns anything requiring exactness**
 - ☁️ **Google Cloud Certified Professional Cloud Architect**
 - 🎓 B.E. in ECE — The Oxford College of Engineering, Bangalore (2025)
 - 📍 Bangalore, India · Open to Remote
@@ -29,61 +33,153 @@ I'm an **AI Engineer & Python Developer** with hands-on experience building inte
 
 ---
 
-## 🛠️ Tech Stack
+## 🤝 Open-Source Contributions
 
-**AI / Generative AI**
+### [cognizant-ai-lab/neuro-san-studio](https://github.com/cognizant-ai-lab/neuro-san-studio) · 850+ ⭐
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+Cognizant AI Lab's open-source multi-agent orchestration framework — the library behind the Cognizant Neuro AI Multi-Agent Accelerator.
 
-**Backend & APIs**
+| PR | Contribution | Status |
+|---|---|---|
+| [#1134](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1134) | Community Projects entry | ✅ Merged |
+| [#1297](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1297) | Legacy Business-Rule Extractor added to Community Projects | ✅ Merged |
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**Frontend**
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-**Databases & Cloud**
-
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=database&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+Worked within framework conventions: HOCON-declared agent networks, `manifest.hocon` registration, the `CodedTool` interface implementing `async_invoke()`, and AAOSA delegation.
 
 ---
 
 ## 🔥 Featured Projects
----
 
-### 🏢 [Enterprise IT Service Desk Pipeline](https://github.com/Sivakumarraj/antigravity-service-desk)
-> Enterprise-grade multi-agent IT helpdesk automation built on **Cognizant Neuro SAN Studio** — 5-pass PII scrubbing (phones, credentials, email headers), Pydantic v2 enum-locked guardrails to block LLM hallucinations, LLM fallback chains, and automatic ServiceNow incident payload generation. Reviewed and approved by Cognizant AI Lab maintainers — listed in the official Neuro SAN Studio community projects.
+### 🏛️ [Neuro SAN Legacy Analyzer](https://github.com/Sivakumarraj/neuro-san-legacy-analyzer)
+> **Listed in the official Neuro SAN Studio Community Projects** ([PR #1297](https://github.com/cognizant-ai-lab/neuro-san-studio/pull/1297)). A 6-agent Neuro SAN network that extracts business rules from legacy **COBOL, Java and PL/SQL** source and emits a modernization-ready specification.
+>
+> The CodedTool/LLM split is deliberate per agent: parsing COBOL paragraphs and tracing `CALL`/`IMPORT` edges are exact pattern matches, so they run as deterministic tools that cannot hallucinate. Business-rule interpretation, migration-risk assessment and spec generation need judgment, so they are LLM agents. **84 unit tests** cover the deterministic tools.
 
-`Python` `Neuro SAN` `Pydantic v2` `ServiceNow` `Multi-Agent` `PII Scrubbing` `HOCON` `uv` `ITSM` `Gemini`
-
-
-
-### 🤖 [AI Workspace Automation System](https://github.com/Sivakumarraj/AI-Workspace-Automation-System)
-> Production-grade fullstack AI platform — Next.js/TypeScript frontend + FastAPI backend — with Gemini 2.5 Flash, end-to-end RAG pipeline (ChromaDB), multi-agent orchestration, memory system, task logging, and Playwright browser automation for autonomous web task execution from natural language prompts.
-
-`Python` `FastAPI` `Next.js` `TypeScript` `Gemini 2.5 Flash` `LangChain` `ChromaDB` `RAG` `Playwright` `Tailwind CSS`
+`Python` `Neuro SAN` `CodedTool` `async_invoke` `HOCON` `pytest` `COBOL` `Java` `PL/SQL` `Legacy Modernization`
 
 ---
 
+### 🏢 [Antigravity Service Desk](https://github.com/Sivakumarraj/antigravity-service-desk)
+> A **4-agent Neuro SAN network** converting raw, unstructured IT support email into schema-valid ServiceNow incident payloads, orchestrated by a front-man agent.
+>
+> A deterministic **PII-scrubbing CodedTool** runs *before* any LLM call, so personal data never enters a model context — a security boundary, not a post-processing step. **Pydantic v2** guardrails reject out-of-range LLM classifications at the schema edge rather than emitting malformed tickets.
 
-### 🏥 [Healthcare Chatbot](https://github.com/Sivakumarraj/Healthcare-chatbot)
-> ML-powered chatbot for real-time patient symptom classification and diagnosis support, built during internship at Compsoft Technologies.
+`Python` `Neuro SAN` `Pydantic v2` `ServiceNow` `Multi-Agent` `PII Scrubbing` `HOCON` `ITSM` `Gemini`
 
-`Python` `Rasa` `scikit-learn` `NLP` `Flask`
+---
+
+### 💰 [Autonomous S2P Invoice Matcher](https://github.com/Sivakumarraj/autonomous-s2p-invoice-matcher)
+> A **neuro-symbolic** 3-way invoice matcher (Purchase Order vs Goods Receipt vs Invoice) for Source-to-Pay pipelines.
+>
+> **Gemini 2.5 Flash** handles unstructured document intake into typed Pydantic schemas, while a **pure Python rule engine** executes all tolerance arithmetic — the LLM never performs financial computation. Includes an immutable SQLite audit trail with automated reconciliation reporting.
+
+`Python` `Gemini 2.5 Flash` `Pydantic` `SQLite` `Neuro-Symbolic AI` `Rule Engine` `Source-to-Pay`
+
+---
+
+## 🛠️ Tech Stack
+
+**AI / Agentic AI**
+
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+
+
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+
+
+
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+
+
+
+![Gemini](https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=google&logoColor=white)
+
+
+
+
+![Pydantic](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+
+
+**Backend & APIs**
+
+
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+
+
+
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+
+
+
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+
+
+**Frontend**
+
+
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+
+
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+
+
+
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+
+
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+
+
+**Databases & Cloud**
+
+
+
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=flat-square&logo=database&logoColor=white)
+
+
+
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+
+
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+
+
+
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+
+
+
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+
 
 ---
 
@@ -100,17 +196,27 @@ I'm an **AI Engineer & Python Developer** with hands-on experience building inte
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivakumarraj&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivakumarraj&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Sivakumarraj&show_icons=true&theme=tokyonight&hide_border=true)
+
+
+
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivakumarraj&layout=compact&theme=tokyonight&hide_border=true)
+
+
 
 ---
 
 ## 🤝 Let's Connect
 
-> *"Building intelligent systems that solve real-world problems through AI automation."*
+> *"LLMs handle language. Deterministic code owns anything that has to be exact."*
 
 ⭐ Star my repos if you find the work interesting. Always open to collaborations, feedback, and AI engineering opportunities.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/siva-kumar-raju-359157229)
+[
+
+![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+
+](https://linkedin.com/in/siva-kumar-raju-359157229)
